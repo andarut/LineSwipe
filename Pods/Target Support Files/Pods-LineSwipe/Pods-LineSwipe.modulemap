@@ -1,0 +1,6 @@
+framework module Pods_LineSwipe {
+  umbrella header "Pods-LineSwipe-umbrella.h"
+
+  export *
+  module * { export * }
+}
